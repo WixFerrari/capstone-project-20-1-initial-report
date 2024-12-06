@@ -37,7 +37,7 @@ Predicted failure time for each unit varies from 58 to 175 test cycles.
 ## Next Steps:
 * Improve the KNearest Regression and Random Forest Regressor so they calculate the MSE for each unit individually. As of right now, it seems like they may be calculating over 20000 units which caused the MSE to be very high and the R2 to be very low.
 * Compare the predicted failure time to the known training data failure time.
-* Potentially use the test data to predict the training data failure time.
+* Potentially use the test data to predict the training data failure time, and then compare the results.
 
 
 
