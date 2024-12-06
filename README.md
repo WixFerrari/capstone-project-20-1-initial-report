@@ -15,12 +15,12 @@ https://www.nasa.gov/intelligent-systems-division/discovery-and-systems-health/p
 Turbofan Engine Degradation Simulation
 
 ## The techniques used in this analysis:
-Feature Importance
-KNearest Regression
-Time series analysis
-Gradient Boosting with Lag Features
-Random Forest Regressor
-Grid Search
+* Feature Importance
+* KNearest Regression
+* Time series analysis
+* Gradient Boosting with Lag Features
+* Random Forest Regressor
+* Grid Search
 
 ## Results:
 1) Using the Random Forest Regressor, the MSE was found to be 2245.452 and the R2 was around 0.052.
