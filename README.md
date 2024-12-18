@@ -1,4 +1,5 @@
-# Turbofan Engine Failure Time Predictor
+#Capstone Project
+# Turbofan Engine Failure Time Predictor Final Report
 
 ## Research Question:
 
